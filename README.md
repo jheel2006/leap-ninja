@@ -18,6 +18,7 @@ As players ascend higher, the game dynamically evolves, introducing increasingly
 
 Vibrant visuals and a dynamic audio soundtrack that adapts to the escalating intensity of the gameplay attempts to engages players and enhance the game's immersive experience.
 
+##
 In summary, "Leap Ninja" elevates the classic jumping game concept to new heights with its engaging gameplay mechanics, strategic depth through power-ups, and dynamic progression of difficulty. Whether you're a casual gamer seeking a quick thrill or a seasoned player looking for a challenge, "Leap Ninja" promises an endless and exciting adventure.
 
 
